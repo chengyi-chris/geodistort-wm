@@ -1,10 +1,29 @@
-# GeoDistort-WM Official implementation of **"Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective"**. 
+<div align="center">
+<!-- <h1>UPure</h1> -->
+<h3>"Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective"</h3>
 
-This repository will provide the code and experimental resources for our ICML 2026 paper. 
+[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>
 
-## Overview This work studies black-box forgery attacks on semantic watermarks in diffusion models. We analyze how proxy-based forgery introduces measurable latent distortions and propose a scheme-agnostic pre-verification method based on geometric discrepancies. 
+<sup>1</sup> Academia Sinica
 
-## Code Release The code, instructions, and experiment scripts will be released soon. Please stay tuned. 
+(<sup>:email:</sup>) corresponding author.
 
+ICML 2026, 
+<!--ArXiv Preprint ([arXiv 2407.10180](https://arxiv.org/abs/2407.10180)) -->
 
-## Citation ```bibtex @inproceedings{lee2026rethinking, title={Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective}, author={Lee, Cheng-Yi and Zhang, Yichi and Yang, Yuchen and Lu, Chun-Shien and Chen, Jun-Cheng}, booktitle={Proceedings of the International Conference on Machine Learning}, year={2026} }
+<!-- </div> -->
+
+## Updated
+Code Release The code, instructions, and experiment scripts will be released soon. Please stay tuned. 
+
+## Citation
+If you find UPure is useful in your research or applications, please consider giving us a star 🌟 and citing it in the following BibTeX entry.
+
+```bibtex
+@inproceedings{lee2026rethinking,
+  title={Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective},
+  author={Lee, Cheng-Yi and Zhang, Yichi and Yang, Yuchen and Lu, Chun-Shien and Chen, Jun-Cheng},
+  booktitle={Proceedings of the International Conference on Machine Learning},
+  year={2026}
+}
+```
