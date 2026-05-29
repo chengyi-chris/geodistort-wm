@@ -2,7 +2,7 @@
 <!-- <h1>UPure</h1> -->
 <h3>"Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective"</h3>
 
-[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>,  Yichi Zhang<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?user=3iOHvUAAAAAJ&hl=en&oi=ao), and Jun-Cheng Chen<sup>1 :email:</sup>
+[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, Yichi Zhang<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?user=3iOHvUAAAAAJ&hl=en&oi=ao), and Jun-Cheng Chen<sup>1 :email:</sup>
 
 <sup>1</sup> Academia Sinica, <sup>2</sup> Pennsylvania State University
 
@@ -17,7 +17,7 @@ ICML 2026,
 Code Release: The code, instructions, and experiment scripts will be released soon. Please stay tuned. 
 
 ## Citation
-If you find UPure is useful in your research or applications, please consider giving us a star 🌟 and citing it in the following BibTeX entry.
+If you find this work is useful in your research or applications, please consider giving us a star 🌟 and citing it in the following BibTeX entry.
 
 ```bibtex
 @inproceedings{lee2026rethinking,
