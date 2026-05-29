@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <h1>UPure</h1> -->
-<h3>"Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective"</h3>
+<h3>Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective</h3>
 
 [Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, Yichi Zhang<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?user=3iOHvUAAAAAJ&hl=en&oi=ao), and Jun-Cheng Chen<sup>1 :email:</sup>
 
@@ -8,7 +8,7 @@
 
 (<sup>:email:</sup>) corresponding author.
 
-ICML 2026, 
+ICML 2026
 <!--ArXiv Preprint ([arXiv 2407.10180](https://arxiv.org/abs/2407.10180)) -->
 
 </div>
