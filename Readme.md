@@ -2,7 +2,7 @@
 <!-- <h1>UPure</h1> -->
 <h3>Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective</h3>
 
-[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, Yichi Zhang<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ&view_op=list_works&sortby=pubdate)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?user=3iOHvUAAAAAJ&hl=en&oi=ao), and Jun-Cheng Chen<sup>1 :email:</sup>
+[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, [Yichi Zhang](https://scholar.google.com/citations?hl=en&user=Cno6rFYAAAAJ)<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?hl=en&user=3iOHvUAAAAAJ), and [Jun-Cheng Chen](https://scholar.google.com/citations?hl=en&user=3x9KITUAAAAJ)<sup>1 :email:</sup>
 
 <sup>1</sup> Academia Sinica, <sup>2</sup> Pennsylvania State University
 
