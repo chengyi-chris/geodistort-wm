@@ -1,14 +1,18 @@
 <div align="center">
-<!-- <h1>UPure</h1> -->
+
 <h3>Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings: A Geometric Distortion Perspective</h3>
 
-[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, [Yichi Zhang](https://scholar.google.com/citations?hl=en&user=Cno6rFYAAAAJ)<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?hl=en&user=3iOHvUAAAAAJ), and [Jun-Cheng Chen](https://scholar.google.com/citations?hl=en&user=3x9KITUAAAAJ)<sup>1 :email:</sup>
+[Cheng-Yi Lee](https://scholar.google.com.tw/citations?hl=en&user=rChf7L4AAAAJ)<sup>1</sup>, [Yichi Zhang](https://scholar.google.com/citations?hl=en&user=Cno6rFYAAAAJ)<sup>2</sup>, [Yuchen Yang](https://scholar.google.com/citations?hl=en&user=bugfOowAAAAJ)<sup>2</sup>, [Chun-Shien Lu](https://scholar.google.com.tw/citations?hl=en&user=3iOHvUAAAAAJ), and [Jun-Cheng Chen](https://scholar.google.com/citations?hl=en&user=3x9KITUAAAAJ)<sup>1 ✉</sup>
 
 <sup>1</sup> Academia Sinica, <sup>2</sup> Pennsylvania State University
 
-(<sup>:email:</sup>) corresponding author.
+<sup>✉</sup> Corresponding author
 
-ICML 2026
+<div>
+  <img src="https://img.shields.io/badge/Conference-ICML%202026-blue" alt="ICML 2026">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+</div>
+
 <!--ArXiv Preprint ([arXiv 2407.10180](https://arxiv.org/abs/2407.10180)) -->
 
 </div>
